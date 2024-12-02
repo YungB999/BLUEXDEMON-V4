@@ -2,9 +2,9 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 
-global.pairingNumber = "2349019529423"
+global.pairingNumber = "2348023846035"
  
-global.botNumber = ["2349019529423"]
+global.botNumber = ["2348023846035"]
 
 global.anticall = true
 
@@ -71902,7 +71902,7 @@ global.pairingCode = true
 global.runWith = "*NODE JS*"
 global.newsletterJid = "120363304326105871@newsletter"
 global.newsletterName = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒"
-global.ownerName = "𝐁𝐋𝐔𝐄 𝐃𝐄𝐌𝐎𝐍"
+global.ownerName = "YUNG B👑"
 global.syt = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sgc = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sig = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
@@ -71914,7 +71914,7 @@ global.setmenu = "image"
 global.docType = "application/vnd.ms-excel"
 global.themeemoji = '🐦‍🔥'
 global.autoreact = false
-global.public = true
+global.public = false
 global.baileysMd = true
 global.antiSpam = true
 global.multi = false
@@ -71929,14 +71929,14 @@ global.Off ="Off"
 global.autoblockcmd = false
 global.fake1 ="Bot WhatsApp"
 global.packName = `𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍`
-global.authorName = "BLUE DEMON"
+global.authorName = "YUNG B👑"
 global.replyType = "web"
 global.setwelcome = "type1"
 global.autoblockcmd = false
 global.autoReport = true
 global.autoLevel = true
-global.autoSticker = true
-global.autoBio = true
+global.autoSticker = false 
+global.autoBio = false
 global.gamewaktu = 60
 global.limitCount = 30
 global.Intervalmsg = 1000
